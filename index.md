@@ -2,8 +2,6 @@
 title: City of Austin Office of Design and Delivery
 layout: home
 image: /assets/img/home.jpg
-# redirect_from: cityofaustin.github.io/innovation-fellows
-# redirect_from: cityofaustin.github.io/innovation-fellows/team.html
 
 
 permalink: /index.html
