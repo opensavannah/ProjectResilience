@@ -1,0 +1,77 @@
+---
+layout: default
+---
+<section class="page-photo-header-about center-xs"></section>
+<section class="page-section" id="about-odd">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-10 col-xs-offset-1 col-lg-8 col-lg-offset-2">
+<!--         <div class="row">
+          <div class="col-xs"><img src="{{ site.baseurl }}/assets/img/team-at-faulk.jpg" alt="Office of Design and Delivery Team at Work"></div>
+        </div> -->
+        <div class="row">
+          <div class="col-xs"><h2>{{ page.secondary_headline }}</h2></div>
+        </div>
+        <div class="row">
+          <div class="col-xs">
+
+          <h4>We launched our Office of Design &amp; Delivery in May 2018 to scale our capacity for designing and delivering the best possible services for our residents.</h4>
+          
+          <h4>Our culture is our strongest asset. We believe that work should be fun, that learning is ongoing, and that everyone has something to teach. We ask for help, default to action, and balance short-term wins with long-term outcomes. We have strong opinions, loosely held, and we’re open by default.</h4>
+
+          <h4><a href="/how-we-work/">Learn about how we work</a>.</h4>
+  
+          <h4>We’re always interested in hearing from residents, sharing our work, and connecting with potential collaborators in the civic space. Find us on <a href="http://twitter.com/civiqueso">Twitter</a> and <a href="http://medium.com/civiqueso">Medium</a> as @civiqueso, check out our work at <a href="http://projects.austintexas.io">projects.austintexas.io</a>, or send us an email at <a href="mailto:odd@austintexas.gov">odd@austintexas.gov</a>.
+            <br/>
+            <br/>    
+            </h4>
+
+          </div>          
+
+        </div>
+      </div>
+
+      <div class="col-xs-10 col-xs-offset-1 col-lg-8 col-lg-offset-2">
+        <div class="row">
+
+          <div class="col-xs">
+            <h4>&nbsp;</h4>
+            <h2>How we got here</h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs">
+            <h4>We started with an experiment. Building on learnings from the <a href="https://consumerfinance.gov">Consumer Financial Protection Bureau</a>, <a href="https://18f.gsa.gov">18F</a>, and the <a href="https://usds.gov">U.S. Digital Service</a>, we launched the City of Austin’s <a href="http://austintexas.gov/innovation-fellows">Design, Technology &amp; Innovation Fellows</a> program in Summer 2016 to “bring the principles, values, and practices of the technology sector into government.”</h4> 
+
+            <p><img src="{{ site.baseurl }}/assets/img/first-fellows-website.png" alt="The first version of our recruiting website, forked from NYC TechJobs"></p>
+
+            <h4>Over the next two years, we hired over 35 design and technology specialists to improve services around <a href="https://permittingatx.com">permitting</a>, <a href="http://projects.austintexas.io/projects/vision-zero-waste/about/overview/">recycling</a>, <a href="http://projects.austintexas.io/projects/bloomberg-iteam/about/overview/">homelessness</a>, and <a href="https://floods.austintexas.io/map">public safety</a>. We introduced and refined practices for user research, service design, content strategy, engineering, and product management, and we launched Austin’s first Digital Services Strategy with a new platform at <a href="https://alpha.austin.gov">alpha.austin.gov</a>.</h4>
+
+            <h4>In May 2018, we became a more permanent and sustainable part of the City of Austin as a division of the Communications &amp; Technology Management Department, where we lead design, development, and product strategy for <a href="http://alpha.austin.gov">Austin.gov</a>, <a href="http://floods.austintexas.io">CTXfloods</a>, the <a href="https://papercensus.org/">Paperless Initiative</a>, and Collaboration &amp; Knowledge Management</a> across departments.</h4>
+
+            <h4>We’re led by our Head of Product, <a href="https://www.linkedin.com/in/marniwilhite/">Marni Wilhite</a>, our mascot is the <a href="link">love chicken</a>, and we’re currently rocking the future of local government with a staff of just 6 permanent city employees, 10 temporary city employees, 1 intern, and a Texas-sized ton of potential.</h4>        
+
+        </div>
+
+      </div>
+
+
+    </div>
+  </div>
+</section>
+
+
+{% assign staff = site.people | where: "role", "staff" | sort: "start_date"  %}
+{% include page-section--people.html
+  section_headline=page.staff_section_headline
+  people=staff
+  section_theme="gray" %}
+
+{% assign press_mentions = site.press | sort_by: "date" | reverse %}
+{% include page-section--press.html
+  section_headline=page.press_mentions_headline
+  section_lede=page.press_mentions_lede_markdown
+  items=press_mentions
+  rows=2
+  button_text=page.press_mentions_button_text
+  button_path=page.press_mentions_button_path %}

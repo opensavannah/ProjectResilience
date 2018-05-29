@@ -1,0 +1,106 @@
+<section class="page-section center-xs section--{{ include.section_theme }}">
+  <div class="container container-fluid">
+    <div class="row">
+      <div class="col-xs-12 col-lg-10 col-lg-offset-1">
+        <div class="row">
+          <div class="col-xs"><h2>{{ include.section_headline }}</h2></div>
+        </div>
+        <div class="row">
+          {% capture lede_markdown %}{{ include.section_lede }}{% endcapture %}
+          <div class="col-xs lede">{{ lede_markdown | markdownify | trim }}</div>
+        </div>
+      </div>
+    </div>
+
+
+<!-- START PROJECTS LOOP -->
+
+<div class="row start-xs" id="projects-container">
+  <!-- START TILES -->        
+
+
+
+
+            
+              
+      <div class="tile tile--project col-xs-12 col-sm-10 col-sm-offset-1 col-md-offset-0 col-md-4">
+        <a class="tile-link"  href="http://projects.austintexas.io//projects/austin-digital-services-discovery/" title="Digital Services Transformation"></a>
+        <div class="tile-outline">
+          <div class="tile-img" style="background-image: url('http://projects.austintexas.io//assets/img/projects/digital-services-discovery/techstack.jpg')"></div>
+          <div class="tile-text">
+            <h3 class="tile-title">
+              Digital Services Transformation
+              
+                <span class="tile-subtitle">with Austin Resource Recovery, EMS, and departments across the City</span>
+              
+            </h3>
+
+            
+              <p class="tile-excerpt">Building living digital services that grow and adapt to resident needs</p>
+            
+          </div>
+        </div>
+      </div>
+
+
+      <div class="tile tile--project col-xs-12 col-sm-10 col-sm-offset-1 col-md-offset-0 col-md-4">
+        <a class="tile-link"  href="http://projects.austintexas.io/projects/atxfloods/" title="Improving Alerts for Flooded Roadways"></a>
+        <div class="tile-outline">
+          <div class="tile-img" style="background-image: url('http://projects.austintexas.io//assets/img/projects/atxfloods/atxfloods.jpg')"></div>
+          <div class="tile-text">
+            <h3 class="tile-title">
+              Improving Alerts for Flooded Roadways
+              
+                <span class="tile-subtitle">with Watershed Protection Department</span>
+              
+            </h3>
+
+            
+              <p class="tile-excerpt">We’re working with Austin’s Watershed Protection Department to improve how ATXfloods provides information about the status of roadway closures to the public and emergency services.</p>
+            
+          </div>
+        </div>
+      </div>
+
+
+
+      <div class="tile tile--project col-xs-12 col-sm-10 col-sm-offset-1 col-md-offset-0 col-md-4">
+        <a class="tile-link"  href="http://projects.austintexas.io//projects/permitting-initiative/" title="Making Permitting Work for Austin"></a>
+        <div class="tile-outline">
+          <div class="tile-img" style="background-image: url('http://projects.austintexas.io//assets/img/projects/permitting/permitting.png')"></div>
+          <div class="tile-text">
+            <h3 class="tile-title">
+              Making Permitting Work for Austin
+              
+                <span class="tile-subtitle">with Development Services Department</span>
+              
+            </h3>
+
+            
+              <p class="tile-excerpt">We’re working with staff in departments across the City to illustrate the permitting experience from our users’ perspectives and identify how technology can help us meet increasing demands.</p>
+            
+          </div>
+        </div>
+      </div>
+
+
+<!-- STOP TILES -->
+
+
+
+
+</div>
+
+
+
+<!-- END PROJECTS LOOP -->
+
+<!--     {% if include.button_text and include.button_path %}
+    <div class="row">
+      <div class="col-xs">
+        <a href="{% unless include.button_path contains "http" %}{{ site.baseurl }}{% endunless %}{{ include.button_path }}" class="usa-button">{{ include.button_text }}</a>
+      </div>
+    </div>
+    {% endif %} -->
+  </div>
+</section>
