@@ -1,5 +1,5 @@
 ---
-title: 'How Brigade-Government Relationships are Renewing Civic Infrastructure'
+title: 'CfA Summit: How Brigade-Government Relationships are Renewing Civic Infrastructure'
 event_time: May 31st, 3:00pm
 location: Code for America Summit
 address: |

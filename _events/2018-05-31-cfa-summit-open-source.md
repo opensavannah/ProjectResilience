@@ -1,5 +1,5 @@
 ---
-title: 'Designing Open Source Projects that Mobilize Communities'
+title: 'CfA Summit: Designing Open Source Projects that Mobilize Communities'
 event_time: May 31st, 3:00pm
 location: Code for America Summit
 address: |

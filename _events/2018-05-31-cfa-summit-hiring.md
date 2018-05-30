@@ -1,6 +1,6 @@
 ---
 title: 'CfA Summit: How to Recruit and Hire More Design and Tech Talent'
-event_time: June 1st, 2:45pm
+event_time: May 31st, 3:00pm
 location: Code for America Summit
 address: |
   Marriott Oakland City Center
