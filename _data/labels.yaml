@@ -22,8 +22,8 @@ site_nav:
     path: /projects/
   - label: Civiqueso
     path: /civiqueso/
-  - label: Join Us
-    path: /join/
+  # - label: Join Us
+  #   path: /join/
 social_icons:
   medium_path: https://medium.com/civiqueso
   medium_title: Medium Posts from @civiqueso
