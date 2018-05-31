@@ -20,6 +20,8 @@ site_nav:
     path: /how-we-work/
   - label: Projects
     path: /projects/
+  - label: Events
+    path: /events/
   - label: Civiqueso
     path: /civiqueso/
   # - label: Join Us
