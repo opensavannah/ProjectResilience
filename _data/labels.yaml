@@ -24,8 +24,8 @@ site_nav:
     path: /events/
   - label: Civiqueso
     path: /civiqueso/
-  # - label: Join Us
-  #   path: /join/
+  - label: Join Us
+    path: https://boards.greenhouse.io/oddaustin
 social_icons:
   medium_path: https://medium.com/civiqueso
   medium_title: Medium Posts from @civiqueso
