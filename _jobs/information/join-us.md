@@ -2,7 +2,11 @@
 title: Join Us
 permalink: /join/
 
-lede_markdown: We are looking for top talent in design, development, data analytics, user research, and product management.
+lede_markdown: 'We are looking for top talent in design, development, data analytics, user research, and product management.
+
+We are a team of passionate, civic-minded professionals who work to bring the principles, values, and practices of the technology sector into government with one goal in mind: to make the lives of Austin residents’ better.
+
+And, we are growing.'
 
 # DON'T EDIT ANYTHING BETWEEN THE <div> TAGS BELOW!
 ---
@@ -14,11 +18,9 @@ lede_markdown: We are looking for top talent in design, development, data analyt
 {% include recursive-nav.html items=items base_path=base_path  %}
 </div>
 
-We are a team of passionate, civic-minded professionals who work to bring the principles, values, and practices of the technology sector into government with one goal in mind: to make the lives of Austin residents’ better.
+We’re currently looking for [Content Strategists](/join/positions/content-strategist/) and a [Visual Designer](/join/positions/ui-designer/) to contribute to the future of austin.gov, and a [Service Designer](/join/positions/service-designer/) to lead transformation projects within our Office of Public Health.
 
-And, we are growing.
-
-We’re currently looking for practitioners in [Content Strategy](https://cityofaustin.github.io/innovation-fellows/join/positions/content-strategist/) and and [Visual Design](https://cityofaustin.github.io/innovation-fellows/join/positions/ui-designer/) to work on the future of [austin.gov](http://alpha.austin.gov). A [Service Designer](https://cityofaustin.github.io/innovation-fellows/join/positions/service-designer/) to lead transformation projects within our Office of Public Health, and front-end, back-end, and full-stack developers to support [austin.gov](http://alpha.austin.gov) and other open-source projects.
+We're also hiring [front-end](/join/positions/full-stack-developer/), [back-end](/join/positions/back-end-developer/), and [full-stack developers](/join/positions/front-end-developer/) to support austin.gov and other open-source projects.
 
 Our terms are for 12 months of full-time work (40 hours each week), with opportunities to apply for permanent positions at the city.
 
