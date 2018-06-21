@@ -2,11 +2,7 @@
 title: Join Us
 permalink: /join/
 
-lede_markdown: 'We are looking for top talent in design, development, data analytics, user research, and product management.
-
-We are a team of passionate, civic-minded professionals who work to bring the principles, values, and practices of the technology sector into government with one goal in mind: to make the lives of Austin residents’ better.
-
-And, we are growing.'
+lede_markdown: We are looking for top talent in design, development, data analytics, user research, and product management.
 
 # DON'T EDIT ANYTHING BETWEEN THE <div> TAGS BELOW!
 ---
@@ -17,6 +13,10 @@ And, we are growing.'
 {% assign base_path = page.nav_from_collection | downcase | prepend: "/_" | append: "/"  %}
 {% include recursive-nav.html items=items base_path=base_path  %}
 </div>
+
+### We are a team of passionate, civic-minded professionals who work to bring the principles, values, and practices of the technology sector into government with one goal in mind: to make the lives of Austin residents’ better.
+
+### And, we are growing.
 
 We’re currently looking for [Content Strategists](/join/positions/content-strategist/) and a [Visual Designer](/join/positions/ui-designer/) to contribute to the future of austin.gov, and a [Service Designer](/join/positions/service-designer/) to lead transformation projects within our Office of Public Health.
 
