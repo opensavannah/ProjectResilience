@@ -1,15 +1,17 @@
 ---
 title: Service Designer
 is_fellow: true
-lever_link: https://jobs.lever.co/austintexas/7a6e9720-8cb4-4439-a1cf-0d4dbf497189/apply
+lever_link: https://boards.greenhouse.io/oddaustin/jobs/4036681002
 position: 2
 lede_markdown: We’re looking for an experienced service designer to serve on multidisciplinary project teams with career civil servants, actively demonstrating the value of iterative development and user-centered design.
 ---
 
 ## Overview
-Our teams are working to improve a wide range of city services, including researching and redesigning our [permitting processes](http://www.austintexas.gov/department/development-services), prototyping ways to change behaviors around [recycling and composting](http://www.austintexas.gov/department/austin-resource-recovery), building the next generation of [ATXFloods](https://www.atxfloods.com/), , improving services for people experiencing homelessness, and creating city-wide standards for service design, web development, and user research.		
 
-You’ll also serve as an expert and educator in your discipline, establishing new practices that can work across departments and providing guidance and training for other fellows and city staff.		
+
+Our teams are working to improve a wide range of city services, including researching and redesigning our [permitting processes](http://permittingatx.com/), prototyping ways to change behaviors around [recycling and composting](http://projects.austintexas.io/projects/vision-zero-waste/about/overview/), designing the future of [austin.gov](http://alpha.austin.gov/), and creating city-wide standards for service design, web development, and user research.		
+
+As a member of our [Office of Design & Delivery](http://odd.austintexas.io/), you'll also serve as an expert and educator in your discipline, establishing new practices that can work across departments and providing guidance and training for your team members and all city staff.
 
 ## Salary		
 
