@@ -124,3 +124,14 @@ h4.value {
 h4#get-updates {
   padding-top: 2em;
 }
+
+.desktop-site-title a,
+.desktop-site-title a:visited {
+  color: #fff;
+  text-decoration: none;
+}
+
+.desktop-site-title a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
