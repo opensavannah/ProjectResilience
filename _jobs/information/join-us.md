@@ -8,11 +8,11 @@ lede_markdown: We are a team of passionate, civic-minded professionals who work 
 ---
 
 
-We're currently looking for [Content Strategists](/join/positions/content-strategist/) and a [Visual Designer](/join/positions/ui-designer/) to contribute to the future of austin.gov, and a [Service Designer](/join/positions/service-designer/) to lead transformation projects within our Office of Public Health.
+We're currently looking for [Content Strategists](/join/positions/content-strategist/) and a [Visual Designer](/join/positions/ui-designer/) to contribute to the future of Austin.gov, and a [Service Designer](/join/positions/service-designer/) to lead transformation projects within our Office of Public Health.
 
-We're also hiring [front-end](/join/positions/full-stack-developer/), [back-end](/join/positions/back-end-developer/), and [full-stack developers](/join/positions/front-end-developer/) to support austin.gov and other open-source projects.
+We're also hiring [Front-End](/join/positions/full-stack-developer/), [Back-End](/join/positions/back-end-developer/), and [Full-Stack Developers](/join/positions/front-end-developer/) to support Austin.gov and other open-source projects.
 
-Our terms are for 12 months of full-time work (40 hours each week), with opportunities to apply for permanent positions at the city. [Learn about benefits](/join/information/benefits/)
+Our terms are for 12 months of full-time work (40 hours each week), with opportunities to apply for permanent positions at the city. [Learn about Benefits](/join/information/benefits/)
 
 
 
