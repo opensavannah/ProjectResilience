@@ -21,9 +21,6 @@ We're also hiring [front-end](/join/positions/full-stack-developer/), [back-end]
 Our terms are for 12 months of full-time work (40 hours each week), with opportunities to apply for permanent positions at the city.
 
 
-\
-\
-\
 
 
 #### Get Updates
