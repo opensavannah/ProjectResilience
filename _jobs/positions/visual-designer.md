@@ -8,7 +8,9 @@ lede_markdown: We’re looking for an experienced visual designer to serve on mu
 
 ---
 ## Overview
-Our teams are working to improve a wide range of city services through the design and development of [alpha.austin.gov](http://alpha.austin.gov), a new platform how the City of Austin serves our residents. You’ll also serve as an expert and educator in your discipline, establishing new practices that can work across departments and providing guidance and training for city staff.
+Our teams are working to improve a wide range of city services, including researching and redesigning our [permitting processes](http://permittingatx.com/), prototyping ways to change behaviors around [recycling and composting](http://projects.austintexas.io/projects/vision-zero-waste/about/overview/), designing the future of [austin.gov](http://alpha.austin.gov/), and creating city-wide standards for service design, web development, and user research.		
+
+As a member of our [Office of Design & Delivery](http://odd.austintexas.io/), you'll also serve as an expert and educator in your discipline, establishing new practices that can work across departments and providing guidance and training for your team members and all city staff.
 
 
 ## Salary
