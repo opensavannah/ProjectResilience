@@ -1,39 +1,45 @@
 ---
-title: Back-End Web Developer
+title: Backend Developer
 is_fellow: true
-lever_link: https://jobs.lever.co/austintexas/037347fd-48b4-4c98-89c2-7477353945ac/apply
+lever_link: https://boards.greenhouse.io/oddaustin/jobs/4037388002
 position: 9
-lede_markdown: We’re looking for a senior back-end developer to serve on multidisciplinary project teams with career civil servants, actively demonstrating the value of iterative development and user-centered design.
+lede_markdown: We’re looking for a mid to senior Backend Developer to serve on multidisciplinary project teams with career civil servants, actively demonstrating the value of iterative development and user-centered design. 
 ---
-## Overview
-Our teams are working to improve a wide range of city services, including researching and redesigning our [permitting processes](http://www.austintexas.gov/department/development-services), prototyping ways to change behaviors around [recycling and composting](http://www.austintexas.gov/department/austin-resource-recovery), building the next generation of [ATXFloods](https://www.atxfloods.com), improving the digital presence of our [Convention Center](https://github.com/cityofaustin/austinconventioncenter.com), and creating city-wide standards for interface design, web infrastructure, and automated testing.
 
-You’ll also serve as an expert and educator in your discipline, establishing new practices that can work across departments and providing guidance and training for other fellows and city staff.
+## Overview
+
+We’re looking for a mid to senior Backend Developer to serve on multidisciplinary project teams with career civil servants, actively demonstrating the value of iterative development and user-centered design.
+
+Our team is working to improve a wide range of city services, which have included researching and redesigning our [permitting processes](http://permittingatx.com/) [(repo)](https://github.com/cityofaustin/Residential-Permitting), prototyping ways to change behaviors around [recycling and composting](http://www.austintexas.gov/department/austin-resource-recovery), building the next generation of [CTXFloods](http://floods.austintexas.io/) [(repo)](https://github.com/cityofaustin/ctxfloods), and creating city-wide standards for interface design, web infrastructure, and automated testing with [Austin.gov](https://alpha.austin.gov/) [(repo)](https://github.com/cityofaustin/janis).
+
+You’ll also serve as an expert and educator in your discipline, establishing new practices that can work across departments and providing guidance and training for other fellows and city staff. 
 
 ## Salary
 
 $75,000-$86,000, commensurate with experience
 
-## What you’ll do:
+## What will you do?
 
-*   Work with other developers on the Innovation Fellows team to establish new standards and practices for web development based on modern languages, frameworks, and best practices
-*   Serve as a core contributor on multi-disciplinary project teams to improve city services
-*   Assist in scoping and prototyping activities for future design and development projects
-*   Work with stakeholders to assess legacy systems and identify opportunities for improved performance and the sustainability of future systems
-*   Be visible to staff and stakeholders and regularly undertake activities to engage and build trust with people involved in area of work
-*   Commit to making what we build fully accessible to the people we serve
-*   Engage with the wider web development community, identifying best practices we can adopt and sharing our experiences
-*   Write blog posts that share what we make and how we make it
-*   Serve as a subject matter expert in the hiring process for additional Design, Technology, and Innovation Fellows
+- Contribute to Open Source Software projects using Github for collaboration and code review. For a flavor of our current stack, we maintain projects that use:
+    - React.js (Javascript), Python (Django), Node.js, Jekyll (Ruby), Apollo & GraphQL, Docker, Heroku, AWS.
+- Work with other developers on Office of Design & Delivery  to establish new standards and practices for web development based on modern languages, frameworks, and best practices
+- Serve as a core contributor on multi-disciplinary project teams to improve city services
+- Assist in scoping and prototyping activities for future design and development projects
+- Work with stakeholders to assess legacy systems and identify opportunities for improved performance and the sustainability of future systems
+- Be visible to staff and stakeholders and regularly undertake activities to engage and build trust with people involved in area of work
+- Engage with the wider web development community, identifying best practices we can adopt and sharing our experiences
+- Assist in recruiting, screening, and interview processes for hiring.
+- Write blog posts that share what we make and how we make it
+- Serve as a subject matter expert in the hiring process for additional Design, Technology, and Innovation Fellows
+
 
 ## What we're looking for
 
-*   3+ years of professional experience developing large-scale applications and services
-*   Detailed understanding of and experience building server-side web applications and services using modern languages, frameworks, and open source software
-*   Detailed understanding of and experience with continuous delivery, continuous integration testing, and cloud platforms
-*   Ability to engage with a wide range of digital specialists, suppliers, and stakeholders to define the best approaches to a problem
-*   Ability to quickly become familiar with emerging technologies and practices
-*   A passion for public service and a commitment to doing the hard work that’s necessary to improve our city services
+- 3-5+ years of professional experience designing large-scale services
+- Experience with modern server frameworks like Python/Django or Node.js, and query languages like SQL & GraphQL to build microservices to support API-driven interfaces.
+- Willingness to, at times, work across the stack. You may write some Javascript or program devops workflows.
+- Ability to engage with a wide range of digital specialists, subject-matter experts, stakeholders, and the public to determine the best approaches to a problem
+- A passion for public service and a commitment to doing the hard work that’s necessary to improve our city services
 
 ## Minimum qualifications
 
