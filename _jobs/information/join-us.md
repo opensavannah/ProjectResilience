@@ -2,7 +2,7 @@
 title: Join Us
 permalink: /join/
 
-lede_markdown: We are looking for top talent in design, development, data analytics, user research, and product management.
+lede_markdown: We are a team of passionate, civic-minded professionals who work to bring the principles, values, and practices of the technology sector into government with one goal in mind: to improve the lives of Austin's residents.
 
 # DON'T EDIT ANYTHING BETWEEN THE <div> TAGS BELOW!
 ---
@@ -14,17 +14,12 @@ lede_markdown: We are looking for top talent in design, development, data analyt
 {% include recursive-nav.html items=items base_path=base_path  %}
 </div>
 
-### We are a team of passionate, civic-minded professionals who work to bring the principles, values, and practices of the technology sector into government with one goal in mind: to make the lives of Austin residents’ better.
-
-### And, we are growing.
-
 We’re currently looking for [Content Strategists](/join/positions/content-strategist/) and a [Visual Designer](/join/positions/ui-designer/) to contribute to the future of austin.gov, and a [Service Designer](/join/positions/service-designer/) to lead transformation projects within our Office of Public Health.
 
 We're also hiring [front-end](/join/positions/full-stack-developer/), [back-end](/join/positions/back-end-developer/), and [full-stack developers](/join/positions/front-end-developer/) to support austin.gov and other open-source projects.
 
-Our terms are for 12 months of full-time work (40 hours each week), with opportunities to apply for permanent positions at the city.
+Our terms are for 12 months of full-time work (40 hours each week), with opportunities to apply for permanent positions at the city. [Learn more about benefits](/join/information/benefits/)
 
-If none of our current openings are the right fit for you, connect with us to be notified of future openings, or [send us your resume](https://jobs.lever.co/austintexas/7367149f-2727-4c51-82fe-124ad57f3a28).
 
 
 --
