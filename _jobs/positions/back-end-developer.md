@@ -33,7 +33,7 @@ $75,000-$86,000, commensurate with experience
 - Serve as a subject matter expert in the hiring process for additional Design, Technology, and Innovation Fellows
 
 
-## What we're looking for
+## What are we looking for?
 
 - 3-5+ years of professional experience designing large-scale services
 - Experience with modern server frameworks like Python/Django or Node.js, and query languages like SQL & GraphQL to build microservices to support API-driven interfaces.
