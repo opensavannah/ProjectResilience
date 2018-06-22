@@ -1,9 +1,9 @@
 ---
 title: Content Strategist		
 is_fellow: true
-lever_link: https://jobs.lever.co/austintexas/a57be492-9bf3-41f3-a329-2751fea9256b/apply
-position: 6
-lede_markdown: We’re looking for a senior content strategist to serve on multidisciplinary project teams with career civil servants, actively demonstrating the value of iterative development and user-centered design.
+lever_link: https://boards.greenhouse.io/oddaustin/jobs/4036303002
+position: 1
+lede_markdown: We’re looking for experienced content strategists to serve on multidisciplinary project teams with career civil servants, actively demonstrating the value of iterative development and user-centered design.
 
 ---
 ## Overview
@@ -14,7 +14,7 @@ As a member of our [Office of Design & Delivery](http://odd.austintexas.io/), yo
 
 ## Salary		
 
-$75,000-$86,000, commensurate with experience		
+$70,000-$80,000, commensurate with experience		
 
 ## What you’ll do:		
 
@@ -27,7 +27,7 @@ $75,000-$86,000, commensurate with experience
 *   Participate in establishing standards for services across the city to improve usability, comprehension, and efficiency		
 *   Commit to making what we build fully accessible to the people we serve		
 *   Share what we make and how we make it through community meetings, blog posts, and other functions		
-*   Serve as a subject matter expert in the hiring process for additional Design, Technology, and Innovation Fellows		
+*   Serve as a subject matter expert in the hiring process for additional design and technology specialists		
 
 #### What we’re looking for		
 
@@ -44,5 +44,5 @@ $75,000-$86,000, commensurate with experience
 ## Minimum qualifications		
 
 *   Two years of relevant work experience		
-*   Graduation from an accredited four-year college or university with major course work in a related field. An additional 4 years of experience can substitute this education requirement.
-*   Must upload an example of a content audit that you have created.
+*   Graduation from an accredited four-year college or university with major course work in a related field. An additional 4 years of experience can substitute this education requirement
+*   Must upload an example of a content audit that you have created
