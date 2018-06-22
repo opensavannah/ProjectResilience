@@ -2,7 +2,7 @@
 title: Join Us
 permalink: /join/
 
-lede_markdown: 
+lede_markdown: We are a team of passionate, civic-minded professionals who work to bring the principles, values, and practices of the technology sector into government with one goal in mind: improving the lives of Austin's residents.
 
 # DON'T EDIT ANYTHING BETWEEN THE <div> TAGS BELOW!
 ---
