@@ -9,7 +9,7 @@ lede_markdown: "We’re looking for a mid to senior Full Stack developer to serv
 
 ## Overview
 
-Our team is working to improve a wide range of city services, which have included researching and redesigning our [permitting processes](http://permittingatx.com/) [(repo)](https://github.com/cityofaustin/Residential-Permitting), prototyping ways to change behaviors around [recycling and composting](http://www.austintexas.gov/department/austin-resource-recovery), building the next generation of [CTXFloods](http://floods.austintexas.io/) [(repo)](https://github.com/cityofaustin/ctxfloods), and creating city-wide standards for interface design, web infrastructure, and automated testing with [Austin.gov](https://alpha.austin.gov/) [(repo)](https://github.com/cityofaustin/janis).
+Our team is working to improve a wide range of city services, which have included researching and redesigning our [permitting processes](http://permittingatx.com/) [(repo)](https://github.com/cityofaustin/Residential-Permitting), prototyping ways to change behaviors around [recycling and composting](http://projects.austintexas.io/projects/vision-zero-waste/about/overview/), building the next generation of [CTXFloods](http://floods.austintexas.io/) [(repo)](https://github.com/cityofaustin/ctxfloods), and creating city-wide standards for interface design, web infrastructure, and automated testing with [Austin.gov](https://alpha.austin.gov/) [(repo)](https://github.com/cityofaustin/janis).
 
 You’ll also serve as an expert and educator in your discipline, establishing new practices that can work across departments and providing guidance and training for other fellows and city staff. 
 
