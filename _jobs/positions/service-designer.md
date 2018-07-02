@@ -19,7 +19,7 @@ $75,000-$86,000, commensurate with experience
 
 ## What you’ll do:		
 
-* Lead service design methods on multidisciplinary teams to reimagine how the City of Austin provides services for residents	
+* Lead service design methods on multidisciplinary teams to reimagine how the City of Austin provides services for residents
 * Produce service design artifacts including service blueprints, journey maps, and digital and environmental prototypes
 * Creatively prototype services and solutions in a changing and unpredictable environment, pivoting and adjusting as needed		
 * Create metrics and methods for measuring progress and success, during and after engagements with departments
@@ -38,7 +38,8 @@ $75,000-$86,000, commensurate with experience
 * Ability to communicate and teach the value of service design to other team members and stakeholders		
 * A bias towards action and making things real  		
 * Willingness to pitch in and do what needs to get done, even if it is not part of the job description  		
-* Comfort with ambiguity and ability to provide leadership on projects that might not have a predefined solution and/or scope	* Knowledge of user-centered design and agile design methodologies, including expertise in determining when and how to use specific approaches, deliverables, and facilitation methods		
+* Comfort with ambiguity and ability to provide leadership on projects that might not have a predefined solution and/or scope
+* Knowledge of user-centered design and agile design methodologies, including expertise in determining when and how to use specific approaches, deliverables, and facilitation methods		
 * Experience facilitating workshops and other meetings across the stakeholder spectrum, from senior-level stakeholders to everyday users		
 * A passion for public service and a commitment to doing the hard work that’s necessary to improve our city services, especially the willingness to work on emotionally demanding topics.		
 
