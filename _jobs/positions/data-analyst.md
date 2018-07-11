@@ -3,14 +3,14 @@ title: Data Analyst
 is_fellow: true
 lever_link: https://boards.greenhouse.io/oddaustin/jobs/4052464002#app
 position: 2
-lede_markdown: We're looking for an experienced data analyst to help conduct an inventory of the City of Austin’s services, setting a baseline for our digital transformation. You'll work alongside our design and delivery teams to develop a scale for assessing how services are provided online, and work across departments to inventory where all of our services fit on that scale.
+lede_markdown: We're looking for an experienced data analyst to help conduct an inventory of the City of Austin’s services, setting a baseline for our digital transformation.
 ---
 
-<!-- ## Overview
+## Overview
 
-Our teams are working to improve a wide range of city services, including researching and redesigning our [permitting processes](http://permittingatx.com/), prototyping ways to change behaviors around [recycling and composting](http://projects.austintexas.io/projects/vision-zero-waste/about/overview/), designing the future of [austin.gov](http://alpha.austin.gov/), and creating city-wide standards for service design, web development, and user research.		
+You'll work alongside our design and delivery teams to develop a scale for assessing how services are provided online, and work across departments to inventory where all of our services fit on that scale.
 
-As a member of our [Office of Design & Delivery](http://odd.austintexas.io/), you'll also serve as an expert and educator in your discipline, establishing new practices that can work across departments and providing guidance and training for your team members and all city staff. -->
+As a member of our [Office of Design & Delivery](http://odd.austintexas.io/), you'll also serve as an expert and educator in your discipline, establishing new practices that can work across departments and providing guidance and training for your team members and all city staff.
 
 ## Salary		
 
