@@ -2,7 +2,7 @@
 title: Contract Position - Senior Full Stack Developer
 is_fellow: false
 lever_link: https://boards.greenhouse.io/oddaustin/jobs/4057734002
-position: 8
+position: 15
 lede_markdown: "We’re looking for Senior Full-Stack Developers to support high-priority projects on 8- to 12-week contracts."
 
 ---
