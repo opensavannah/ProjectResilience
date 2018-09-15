@@ -1,5 +1,5 @@
 ---
-title: Business Process Consultant, Digital Transformation
+title: User Research Coordinator
 is_fellow: true
 lever_link: https://boards.greenhouse.io/oddaustin/jobs/4092503002
 position: 7
