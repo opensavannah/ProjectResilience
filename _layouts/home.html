@@ -38,25 +38,6 @@ layout: default
   button_path=page.project_tiles_button_path %}
 
 
-{% include page-section--medium.html
-  section_headline=page.medium_headline
-  section_lede=page.medium_lede_markdown
-  rows=1
-  button_text=page.medium_button_text
-  button_path=page.medium_button_path %}
-
-
-{% assign events = site.events | sort_by: "list_until_date" %}
-{% include page-section--events.html
-  section_headline=page.events_headline
-  section_lede=page.events_lede_markdown
-  items=events
-  section_theme="gray"
-  rows=1
-  button_text=page.events_button_text
-  button_path=page.events_button_path %}
-
-
 {% assign people = site.people | sort: "start_date" | reverse %}
 {% include page-section--people.html
   section_headline=page.people_headline
