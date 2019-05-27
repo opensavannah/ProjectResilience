@@ -1,6 +1,6 @@
-intro_markdown: An official website of the City of Austin
+intro_markdown: Code for America 2019 Fellowship Updates from Savannah, Ga.
 site_title: |
-    Office of Design & Delivery
+    Team Savannah: Code for America Community Fellowship
 translate: Translate
 home: Home
 header_projects_button_text: Go to our Projects site
@@ -18,19 +18,19 @@ site_nav:
     path: /about/
   - label: How We Work
     path: /how-we-work/
-  - label: Projects
+  - label: Submit/Vote on Ideas
     path: /projects/
-  #  - label: Events
-  #   path: /events/
-  - label: Civiqueso
+    label: Events
+    path: /events/
+  - label: Updates
     path: /civiqueso/
   - label: Join Us
     path: /join/
 social_icons:
-  medium_path: https://medium.com/civiqueso
-  medium_title: Medium Posts from @civiqueso
-  github_path: https://github.com/cityofaustin
-  github_title: Check out the City of Austin's Design, Technology, and Innovation projects
-  twitter_path: https://twitter.com/civiqueso
-  twitter_title: Tweets from @civiqueso
-job_apply_button_text: Apply Now
+  medium_path: https://medium.com/opensavannah
+  medium_title: Medium Posts from @opensavannah
+  github_path: https://github.com/opensavannah
+  github_title: Check out the the Fellowship Team's current projects on sea-level rise and environmental justice
+  twitter_path: https://twitter.com/opensavannah
+  twitter_title: Tweets from @opensavannah
+job_apply_button_text: Join Us
