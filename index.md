@@ -1,19 +1,20 @@
 ---
-title: City of Austin Office of Design and Delivery
+title: Sea-Level-Rise Resilience
 layout: home
 image: /assets/img/home.jpg
 
 
 permalink: /index.html
 
-secondary_headline: 'Put Residents First.'
-secondary_lede_markdown: 'We’re a new office at the City of Austin that’s dedicated to designing and building services for residents that grow and adapt with their needs.'
+secondary_headline: 'Making the smart city equitable, inclusive, and civic.'
+secondary_lede_markdown: 'We’re a broad-based coalition for environmental awareness and justice. We
+re composed of local Code for America fellows, residents from Savannah neighborhoods that are most vulnerable to coastal flooding, allied nonprofits, neighborhood organizations, and local government.'
 secondary_section_buttons:
   - button_text: Learn more
     button_path: /about/
 
 people_headline: By the People, for the People
-people_lede_markdown: 'Meet our team of experts committed to changing up local government'
+people_lede_markdown: 'Meet our team of fellows and residents committed to changing up local government'
 people_button_text: Meet the team
 people_button_path: /about/
 
